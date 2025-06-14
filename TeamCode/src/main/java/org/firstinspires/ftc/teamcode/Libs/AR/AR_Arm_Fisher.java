@@ -22,7 +22,7 @@ import org.firstinspires.ftc.teamcode.Libs.AR.Archive.AR_Arm;
  * Creation Date: 11/3/2024
  */
 
-//TODO: Tune Arm Angles, Using FTC Dashboard, arm cannot reach
+//TODO: Tune Arm Angles, Using FTC Dashboard, arm cannot reach middle or high bucket
 @Config
 public class AR_Arm_Fisher
 {
